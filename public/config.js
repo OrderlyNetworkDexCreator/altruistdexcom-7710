@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Rewards,Vaults",
-  "VITE_CUSTOM_MENUS": "Blog, https://blog.altruistdex.com/; Status, https://status.altruistdex.com/",
+  "VITE_CUSTOM_MENUS": "Blog, https://blog.altruistdex.com/; Status, https://status.altruistdex.com/; BUY $ALTRU, https://four.meme/token/0x6359e046fce916697b9f1e60d513aa39197a4444",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/altruistdex",
   "VITE_DISCORD_URL": "",
